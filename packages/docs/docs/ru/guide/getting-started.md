@@ -6,9 +6,9 @@ VuePress работает с [Node.js](https://nodejs.org/ru/) версии 8.6 
 
 ## Быстрый старт
 
-The fastest way to get your VuePress project setup is to use our create-vuepress tool which will help scaffold the basic VuePress site structure for you.
+Самый быстрый способ настроить ваш проект VuePress  - это использовать наш инструмент create-vuepress, который поможет создать базовую структуру сайта VuePress.
 
-To use it, open up your terminal in the desired directory and run the following command:
+Для этого, откройте терминал в нужном каталоге и выполните следующую команду:
 
 ```bash
 yarn create vuepress [directoryName]

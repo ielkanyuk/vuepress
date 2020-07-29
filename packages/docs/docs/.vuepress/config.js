@@ -75,7 +75,7 @@ module.exports = ctx => ({
         selectText: 'Русский',
         ariaLabel: 'Выбор языка',
         editLinkText: 'Редактировать эту страницу на GitHub',
-        lastUpdated: 'Last Updated',
+        lastUpdated: 'Последнее обновление',
         nav: require('./nav/ru'),
         sidebar: {
           '/ru/api/': getApiSidebar(),

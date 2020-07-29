@@ -14,7 +14,7 @@ VuePress состоит из двух частей: [минималистичн�
 
 Каждый Markdown-файл компилирууется в HTML с помощью [markdown-it](https://github.com/markdown-it/markdown-it) и затем обрабатывается как шаблон компонента Vue. Это позволяет вам напрямую использовать Vue в ваших файлах Markdown и отлично подходит для встраивания динамического контента.
 
-## Features
+## Возможности
 
 **Встроенные расширения Markdown**
 
@@ -22,29 +22,29 @@ VuePress состоит из двух частей: [минималистичн�
 * [Custom Containers](../guide/markdown.md#custom-containers)
 * [Line Highlighting](../guide/markdown.md#line-highlighting-in-code-blocks)
 * [Line Numbers](../guide/markdown.md#line-numbers)
-* [Import Code Snippets](../guide/markdown.md#import-code-snippets)
+* [Импорт фрагментов кода](../guide/markdown.md#import-code-snippets)
 
 **Использование Vue в Markdown**
 
-* [Templating](../guide/using-vue.md#templating)
-* [Using Components](../guide/using-vue.md#using-components)
+* [Шаблоны](../guide/using-vue.md#templating)
+* [Использование компонентов](../guide/using-vue.md#using-components)
 
 **Vue-powered custom theme system**
 
-* [Metadata](../theme/writing-a-theme.md#site-and-page-metadata)
+* [Метаданные](../theme/writing-a-theme.md#site-and-page-metadata)
 * [Content Excerpt](../theme/writing-a-theme.md#content-excerpt)
 
-**Базовая тема**
+**Тема по умолчанию**
 
-* Responsive layout
-* [Optional Homepage](../theme/default-theme-config.md#homepage)
-* [Simple out-of-the-box header-based search](../theme/default-theme-config.md#built-in-search)
+* Адаптивная вёрстка
+* [Дополнительная домашняя страница](../theme/default-theme-config.md#homepage)
+* [Простой встроенный поиск на основе заголовков](../theme/default-theme-config.md#built-in-search)
 * [Algolia Search](../theme/default-theme-config.md#algolia-search)
-* Customizable [navbar](../theme/default-theme-config.md#navbar) and [sidebar](../theme/default-theme-config.md#sidebar)
-* [Auto-generated GitHub link and page edit links](../theme/default-theme-config.md#git-repo-and-edit-links)
+* Настраиваемый [navbar](../theme/default-theme-config.md#navbar) и [sidebar](../theme/default-theme-config.md#sidebar)
+* [Автоматическая генерация ссылок на GitHub и ссылок для редактирования страниц](../theme/default-theme-config.md#git-repo-and-edit-links)
 * [PWA: Popup UI to refresh contents](../theme/default-theme-config.md#popup-ui-to-refresh-contents)
 * [Last Updated](../theme/default-theme-config.md#last-updated)
-* [Multi-Language Support](../guide/i18n.md)
+* [Мультиязыковая поддержка](../guide/i18n.md)
 
 **Тема для блога**
 
